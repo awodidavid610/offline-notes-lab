@@ -3,7 +3,7 @@
 A small, installable, offline-first Progressive Web App (PWA) built with React, TypeScript, and Vite. Users can create notes, which are stored locally in the browser, and the app remains usable offline thanks to a service worker caching the application shell.
 
 ## Live demo
-https://ahmed911544.github.io/offline-notes-lab/
+https://awodidavid610.github.io/offline-notes-lab/
 
 ## Run locally
 npm install
